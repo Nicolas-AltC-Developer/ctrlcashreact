@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.809d0f3b.css",
-    "main.js": "/static/js/main.281c4a74.js",
+    "main.js": "/static/js/main.38fc51aa.js",
     "static/media/curved10.jpg": "/static/media/curved10.fea9af7a14f5c725be3e.jpg",
     "static/media/home-decor-3.jpg": "/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
     "static/media/home-decor-2.jpg": "/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
@@ -39,10 +39,10 @@
     "static/media/logo-spotify.svg": "/static/media/logo-spotify.3f055cde07c024fb2b73063b46416f1b.svg",
     "index.html": "/index.html",
     "main.809d0f3b.css.map": "/static/css/main.809d0f3b.css.map",
-    "main.281c4a74.js.map": "/static/js/main.281c4a74.js.map"
+    "main.38fc51aa.js.map": "/static/js/main.38fc51aa.js.map"
   },
   "entrypoints": [
     "static/css/main.809d0f3b.css",
-    "static/js/main.281c4a74.js"
+    "static/js/main.38fc51aa.js"
   ]
 }
